@@ -1,0 +1,19 @@
+VFB Instance Manager — add-on package (inside the zip / Blender Extensions)
+
+Copyright (c) 2026 Viclant
+
+This add-on is licensed under the **GNU General Public License v3.0 or later**
+(SPDX: **GPL-3.0-or-later**), matching `blender_manifest.toml`.
+
+The complete GNU GPL v3 text is in **GPL-3.0.txt** in this folder.
+
+---
+
+Dual licensing
+
+The same source code may also be offered under the **MIT License** at the GitHub
+repository root (`LICENSE`). If you obtained the project from GitHub, you may use
+it under those MIT terms where applicable.
+
+If you install this package through **Blender Extensions** (extensions.blender.org),
+the **GPL-3.0-or-later** terms apply to that distribution, as required by the platform.

@@ -1,0 +1,22 @@
+# Blender 4.2+ / 5.x extension metadata (also helps legacy “Install from Disk” detect the add-on).
+schema_version = "1.0.0"
+
+id = "vfb_instance_manager"
+version = "1.0.1"
+name = "VFB Instance Manager"
+tagline = "Reference-driven dupes: collections, roots, mesh instances"
+maintainer = "Viclant — V.F.B"
+website = "https://viclant.com"
+type = "add-on"
+
+# extensions.blender.org requires ≥4.2.0 and GPL-3.0-or-later in the manifest.
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[build]
+paths_exclude_pattern = [
+  "__pycache__/",
+  "*.pyc",
+  "/.git/",
+  "/*.zip",
+]
